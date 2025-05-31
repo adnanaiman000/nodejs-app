@@ -22,8 +22,8 @@ This is a basic website that demonstrates fundamental Node.js concepts using onl
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/adnanaiman000/nodejs-app.git
+cd nodejs-app
 ```
 
 2. No additional dependencies to install - uses only Node.js built-in modules!
